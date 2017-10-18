@@ -14,8 +14,8 @@ input = gets.strip
 input_to_index(input)
 
 
-## expect self to recieve move.with(anything,0,any_args)
+## expect self to recieve move.with(anything,0,(any_args))
 
 
-
+display_board()
 #make sure bin/move is passing index, not the input to the move method
