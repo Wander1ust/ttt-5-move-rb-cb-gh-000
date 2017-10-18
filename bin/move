@@ -15,6 +15,5 @@ input_to_index(input)
 
 
 
-move(input)
-
+input(move)
 #input = position
