@@ -13,5 +13,6 @@ puts "Where would you like to go?"
 input = gets.strip
 input_to_index(input)
 
-#move(board, position, character="X")
+move(anything, 0, character)
+
 #input = position
