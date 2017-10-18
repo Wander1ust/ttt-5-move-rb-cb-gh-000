@@ -13,7 +13,7 @@ puts "Where would you like to go?"
 input = gets.strip
 input_to_index(input)
 
-move(board[2], (input))
+move(input,0,(0))
 ## expect self to recieve move.with(anything,0,any_args)
 
 
