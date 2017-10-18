@@ -14,8 +14,7 @@ user_input = user_input.to_i
 user_input -= 1
 end
 
-
-
 def move(board, position, character)
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 end
