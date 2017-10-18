@@ -19,5 +19,7 @@ index = input
 
 move(board,0,"X")
 
+display_board(board)
+
 
 #make sure bin/move is passing index, not the input to the move method
