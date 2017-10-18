@@ -15,5 +15,5 @@ user_input -= 1
 end
 
 def move(board, position, character)
-character = "X"
+character = X
 end
