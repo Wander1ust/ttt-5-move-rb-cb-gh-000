@@ -9,7 +9,7 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index(input)
+def input_to_index(user_input)
   "Where would you like to go on the board?"
   user_input = gets.chomp.to_i
 end
