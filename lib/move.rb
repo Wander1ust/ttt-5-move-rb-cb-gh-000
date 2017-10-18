@@ -10,7 +10,8 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index
-  userInput = gets.to_i
+  gets.to_i
+  -1
 end
 
 
