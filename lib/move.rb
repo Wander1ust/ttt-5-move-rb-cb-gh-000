@@ -9,8 +9,9 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index(user_input)
-  user_input.gets.to_i
+def input_to_index(input)
+  "Where would you like to go on the board?"
+  user_input = gets.chomp.to_i
   user_input = user_input - 1
   return user_input-1
 end
