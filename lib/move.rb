@@ -10,7 +10,7 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index
-  gets.strip.to_i
+usrinput = gets.chomp.to_i
 end
 
 
