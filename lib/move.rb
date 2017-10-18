@@ -9,9 +9,8 @@ end
 
 # code your input_to_index and move method here!
 
-def input_to_index
-  gets.to_i
-  -1
+def input_to_index(userinput)
+  userinput = gets.strip.to_i
 end
 
 
