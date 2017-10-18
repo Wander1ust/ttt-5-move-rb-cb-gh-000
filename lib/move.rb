@@ -17,6 +17,6 @@ user_input -= 1
 end
 
 def move(board, position, character)
-board = Array.new
 character = "X"
+board[position] = character
 end
